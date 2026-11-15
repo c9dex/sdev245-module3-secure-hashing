@@ -1,0 +1,1 @@
+Hello, this is my SDEV245 hashing test.
